@@ -1,4 +1,4 @@
-# Python Script to emulate 6sigmaclassic rainbow colormap
+# Python Script to emulate rainbow colormap
 # Copy and paste this entire script into ParaView's Script Editor
 
 import paraview.simple as pvs
